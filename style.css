@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+    padding: 0 50px;
+}
+h1{
+    font-weight: bolder;
+    color: dodgerblue;
+}
+.flexone{
+    display: flex;
+}
+h3{
+    font-weight: bold;
+    color: aqua;
+}
+h4{
+    font-weight: normal;
+    color: lightskyblue;
+}
+img{
+    max-width: 90%;
+    min-width: 75%;
+    height: auto;
+}
+.facts>p{
+    text-align: left;
+}
